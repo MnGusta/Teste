@@ -9,4 +9,10 @@ Resumo aula git e GitHub.
 
 ## 🧑‍🎓 [Aula 3](https://github.com/MnGusta).
 
+## 🤭 [Aula 4](https://github.com/MnGusta).
+
+```
+git status
+```
+
 
