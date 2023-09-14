@@ -1,5 +1,5 @@
 
-# Aula Git e GitHub
+# Aula Git e GitHub.
 
 Resumo aula git e GitHub.
 
