@@ -7,4 +7,6 @@ Resumo aula git e GitHub.
 
 ## 🔍 [Aula 2](https://github.com/MnGusta).
 
+## 🧑‍🎓 [Aula 3](https://github.com/MnGusta).
+
 
