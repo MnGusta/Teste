@@ -13,6 +13,7 @@ Resumo aula git e GitHub.
 
 ```
 git status
+
 ```
 
 
